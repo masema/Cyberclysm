@@ -1,1 +1,11 @@
-
+[
+  {
+    "type": "MOD_INFO",
+    "id": "cyberclysm",
+    "name": "Cyberclysm",
+    "authors": [ "Pax/Masema" ],
+    "description": "Complete cyberpunk overhaul.",
+    "category": "content",
+    "dependencies": [ "dda" ]
+  }
+]
